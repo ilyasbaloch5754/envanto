@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+}
+.main{
+    background-color: black;
+    height: 150px;
+}
+.nav{
+    display: flex; 
+   color: white;
+   margin-left: 0px;
+   background-color: black;
+   position: fixed;
+   width: 100%;
+
+   
+   
+}
+.imgnav{
+    margin-left: 20px;
+}
+.par{
+    color: green;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.bu{
+    margin-left: 1280px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 50px;
+    width: 130px;
+    background-color: #7AA93C;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.bu:hover{
+    background-color: rgb(27, 107, 27);
+}
+
+.main2{
+    background-color: black;
+    display: flex;
+}
+
+.img1{
+    margin-left: 160px;
+    height: 100px;
+
+}
+.para{
+    color: white;
+    margin-left: 100px;
+    padding-top: 20px;
+    font-size: 25px;
+    display: flex;
+    list-style-type: none;
+    gap: 60px;
+}
+.main5{
+    display: flex;
+}
+
+
+.ul2{
+    display: flex;
+    list-style-type: none;
+    margin-left: 250px;
+    gap: 25px;
+    font-style: bold;
+}
+
+
+.main4{
+    border: 2px solid black;
+}
+.img2{
+   height: 900px;
+   width: 100%;
+
+   }
+
+.main3{
+    display: flex;
+}
+
+.img12{
+    height: 200px;
+    width: 700px;
+    margin: 130px;
+    margin-top: 200px;
+}
+.h3{
+    
+    margin-top: 130px;
+    font-size: 80px;
+}
+
+.para2{
+    /* margin-top: 110px; */
+    margin-right: 150px;
+    font-size: 20px;
+   
+}
+
+.bu1{
+    border: solid rgb(30, 81, 247) 1px;
+    height: 60px;
+    width: 100px;
+    font-size: 20px;
+
+}
+.bu1:hover{
+    background-color: blue;
+    color: #fafafa;
+}
+
+.mach{
+    width: 100%;
+    height: 900px;
+    position: absolute;
+}
+.mach1{
+position: relative;
+margin-left: 1150px;
+height: 900px;
+width: 500px;
+
+}
+
+.img-bike{
+    height: 350px;
+    width: 500px;
+    margin-left: 250px;
+
+}
+
+.img-boat{
+    height: 350px;
+    width: 500px;
+    margin-left: 250px;
+}
+
+
+.img-cycle{
+    height: 350px;
+    width: 500px;
+    margin-left: 250px;
+}
+
+
+
+.img-car{
+margin-left: 800px;
+margin-bottom: 500px;
+justify-items: baseline;
+}
+
+.para6{
+    margin-left: 150px;
+    font-size: 3rem;
+}
+.para7{
+    margin-left: 150px;
+    font-size: 1.3rem;
+}
+
+.bu2{
+    border: solid rgb(30, 81, 247) 1px;
+    height: 40px;
+    width: 70px;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.bu2:hover{
+    background-color: blue;
+    color: #fafafa;
+}
+
+.img-tyre{
+    width: 150px;
+    width: 300px;
+    margin-left: 1200px;
+    display: flex;
+}
